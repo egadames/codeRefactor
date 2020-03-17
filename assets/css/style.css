@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* the header class was converted to a header tag by eliminated the . */
+/* the header class was converted to a header tag */
 
 header {
     padding: 20px;
@@ -139,7 +139,7 @@ main {
 }
 
 
-/* the header class was converted to a header tag by eliminated the . */
+/* the footer class was converted to a footer tag. The extra code was deleted. */
 
 footer {
     padding: 30px;
